@@ -1,2 +1,3 @@
-# Yapay Sİnir Ağları 
-Yapay sinir ağları Back Propagation(Geriye yayılımlı) algoritması ile çarpım tablosunun gerçekleştirilmesi.
+# Artificial neural network back-propagation algorithm
+Multiplication table prediction using back propagation algorithm in artificial neural networks.
+
